@@ -3,3 +3,5 @@ git is free software distributed under the GPL
 git is good software 
 git is  very good software 
 github commads
+github manager change
+my stupid boss still prefers SVN
