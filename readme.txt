@@ -2,3 +2,4 @@
 git is free software distributed under the GPL
 git is good software 
 git is  very good software 
+github commads
